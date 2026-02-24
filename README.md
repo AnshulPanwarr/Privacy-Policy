@@ -52,4 +52,4 @@ You can delete your account at any time from the Profile section of the app. Whe
 Account deletion is irreversible. We recommend downloading any data you wish to keep before deleting your account.
 Contact Us
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
-Email: ap499466@gmail.com
+Email: animao.connect@gmail.com
